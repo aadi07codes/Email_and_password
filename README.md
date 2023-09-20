@@ -1,5 +1,5 @@
 # Email-validation
-# Email Validaton
+# Simple Email Validaton
 # Password Validation
 # Email Validation Through Regex
-# Author : Adarsh Sharma
+# Author : Adarsh Sharma  
